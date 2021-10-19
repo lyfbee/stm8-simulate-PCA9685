@@ -1,0 +1,23 @@
+stm8s_i2c.pbi: \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\src\stm8s_i2c.c \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_i2c.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc/stm8s.h \
+  D:\2.Study\Project\stm8Project\i2c\stm8s_conf.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_adc1.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_awu.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_beep.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_clk.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_exti.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_flash.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_itc.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_iwdg.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_rst.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_spi.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_tim1.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_tim2.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_uart1.h \
+  D:\2.Study\Project\stm8Project\i2c\STM8S_StdPeriph_Driver\inc\stm8s_wwdg.h \
+  D:\2.Study\IAR\ STM8\stm8\inc\c\intrinsics.h
